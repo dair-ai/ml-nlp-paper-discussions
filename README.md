@@ -8,4 +8,4 @@ Interested to join these discussions in the future? Check out our future events 
 
 **Authors:** Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, Peter J. Liu
 
-**Notes**: TBA
+**Notes**: [Link](https://paper.dropbox.com/doc/Paper-ReadingDiscussion-1--AzNoZ91dKst3bh6CiQ9CCT9tAQ-Bv3fHWQgHCMdAaQtMXsoH)
