@@ -1,4 +1,4 @@
-# NLP Paper Discussions
+# ML and NLP Paper Discussions
 One of our community-driven efforts it to discuss interesting ML or NLP papers and foster an inclusive, safe, and open platform that allows it. This repository contains notes and discussions for our weekly NLP paper discussions. You will find notes, questions, and other findings and topics the community found interesting.
 
 Interested to join these discussions in the future? Check out our future events [here](https://www.meetup.com/dair-ai/) and join the discussion in our [Slack group](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g).
