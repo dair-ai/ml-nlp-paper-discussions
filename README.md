@@ -10,7 +10,7 @@ Interested to join these discussions in the future? Check out our future events 
 
 **Notes**: [Link](https://paper.dropbox.com/doc/Paper-ReadingDiscussion-1--AzNoZ91dKst3bh6CiQ9CCT9tAQ-Bv3fHWQgHCMdAaQtMXsoH)
 
-### May 2, 2020
+### May 16, 2020
 
 **Paper:** TLDR: Extreme Summarization of Scientific Documents
 
