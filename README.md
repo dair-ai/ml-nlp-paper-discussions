@@ -9,3 +9,11 @@ Interested to join these discussions in the future? Check out our future events 
 **Authors:** Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, Peter J. Liu
 
 **Notes**: [Link](https://paper.dropbox.com/doc/Paper-ReadingDiscussion-1--AzNoZ91dKst3bh6CiQ9CCT9tAQ-Bv3fHWQgHCMdAaQtMXsoH)
+
+### May 2, 2020
+
+**Paper:** TLDR: Extreme Summarization of Scientific Documents
+
+**Authors:** Isabel Cachola, Kyle Lo, Arman Cohan, Daniel S. Weld
+
+**Notes:** [Link](https://paper.dropbox.com/doc/Paper-Reading-and-Discussion-3--A0B95YiDTCXqQEv7gqSpsuRJAQ-gOVGQbJHNyRC8ZUaWQwVw)
