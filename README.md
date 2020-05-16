@@ -12,7 +12,7 @@ Interested to join these discussions in the future? Check out our future events 
 
 ### May 16, 2020
 
-**Paper:** TLDR: Extreme Summarization of Scientific Documents
+**Paper:** [TLDR: Extreme Summarization of Scientific Documents](https://arxiv.org/abs/2004.15011)
 
 **Authors:** Isabel Cachola, Kyle Lo, Arman Cohan, Daniel S. Weld
 
