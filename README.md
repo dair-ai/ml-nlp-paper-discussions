@@ -3,6 +3,15 @@ One of our community-driven efforts it to discuss interesting ML or NLP papers a
 
 Interested to join these discussions in the future? Check out our future events [here](https://www.meetup.com/dair-ai/) and join the discussion in our [Slack group](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g).
 
+### May 23, 2020
+
+**Paper:** [On the relationship between self-attention and convolutional layers](https://arxiv.org/pdf/1911.03584.pdf)
+
+**Authors:** Jean-Baptiste Cordonnier, Andreas Loukas & Martin Jaggi
+
+**Notes:** [Link](https://paper.dropbox.com/doc/Paper-Reading-and-Discussion-4--A0eG77kx91HVGoivVJEfFdSmAQ-9SGkOfQkbtnLg3Sg1kXKu)
+
+
 ### May 16, 2020
 
 **Paper:** [TLDR: Extreme Summarization of Scientific Documents](https://arxiv.org/abs/2004.15011)
