@@ -3,6 +3,17 @@ One of our community-driven efforts it to discuss interesting ML or NLP papers a
 
 Interested to join these discussions in the future? Check out our future events [here](https://www.meetup.com/dair-ai/) and join the discussion in our [Slack group](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g).
 
+
+---
+### May 30, 2020
+
+**Paper:** [Experience Grounds Language](https://arxiv.org/abs/2004.10151)
+
+**Authors:** Yonatan Bisk, Ari Holtzman, Jesse Thomason, Jacob Andreas, Yoshua Bengio, Joyce Chai, Mirella Lapata, Angeliki Lazaridou, Jonathan May, Aleksandr Nisnevich, Nicolas Pinto, Joseph Turian
+
+**Notes:** [Link](https://paper.dropbox.com/doc/Paper-Reading-and-Discussion-5--A098XeKqUMq3ZtCH3XODeLztAQ-4vriLyFYCjuu52Gzk5rYA)
+
+
 ---
 
 ### May 23, 2020
