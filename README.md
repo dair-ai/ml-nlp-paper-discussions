@@ -5,6 +5,16 @@ Interested to join these discussions in the future? Check out our future events 
 
 
 ---
+### June 06, 2020
+
+**Paper:** [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+
+**Authors:** Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan, Rewon Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford, Ilya Sutskever, Dario Amodei
+
+**Notes:** [Link](https://paper.dropbox.com/doc/Paper-Reading-and-Discussion-6--A1V~9uD3FwlBjigsVJBE6Z4lAg-fMEWzWjW0Xq6bhBXT11lf)
+
+
+---
 ### May 30, 2020
 
 **Paper:** [Experience Grounds Language](https://arxiv.org/abs/2004.10151)
