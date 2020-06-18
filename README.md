@@ -3,6 +3,14 @@ One of our community-driven efforts it to discuss interesting ML or NLP papers a
 
 Interested to join these discussions in the future? Check out our future events [here](https://www.meetup.com/dair-ai/) and join the discussion in our [Slack group](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g).
 
+---
+### June 13, 2020
+
+**Paper:** [When BERT Plays the Lottery, All Tickets Are Winning](https://arxiv.org/abs/2005.00561)
+
+**Authors:** Sai Prasanna, Anna Rogers, Anna Rumshisky
+
+**Notes:** [Link](https://paper.dropbox.com/doc/Paper-Reading-and-Discussion-7--A1gVayeFFZZo7O~OoPWRH2e9AQ-5vJi4alY1xWfPbYgYTXLA)
 
 ---
 ### June 06, 2020
