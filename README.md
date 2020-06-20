@@ -4,6 +4,15 @@ One of our community-driven efforts it to discuss interesting ML or NLP papers a
 Interested to join these discussions in the future? Check out our future events [here](https://www.meetup.com/dair-ai/) and join the discussion in our [Slack group](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g).
 
 ---
+### June 20, 2020
+
+**Paper:** [VirTex: Learning Visual Representations from Textual Annotations](https://arxiv.org/abs/2006.06666)
+
+**Authors:** Karan Desai, Justin Johnson
+
+**Notes:** [Link](https://paper.dropbox.com/doc/Paper-Reading-and-Discussion-8--A2N2KR_PEDmhBCqAODbbxIK_Ag-zVv0uUjeK3qpWqJzLQwxh)
+
+---
 ### June 13, 2020
 
 **Paper:** [When BERT Plays the Lottery, All Tickets Are Winning](https://arxiv.org/abs/2005.00561)
