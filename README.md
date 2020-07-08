@@ -4,6 +4,15 @@ One of our community-driven efforts it to discuss interesting ML or NLP papers a
 Interested to join these discussions in the future? Check out our future events [here](https://www.meetup.com/dair-ai/) and join the discussion in our [Slack group](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g).
 
 ---
+### July 4, 2020
+
+**Paper:** [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
+
+**Authors:** Ting Chen, Simon Kornblith, Mohammad Norouzi, Geoffrey Hinton
+
+**Notes:** [Link](https://paper.dropbox.com/doc/Paper-Reading-and-Discussion-9--A2al~HR1N3EMdDc1i5E~frGZAQ-YcElLFMumDGiQ4Nki5C9S)
+
+---
 ### June 20, 2020
 
 **Paper:** [VirTex: Learning Visual Representations from Textual Annotations](https://arxiv.org/abs/2006.06666)
